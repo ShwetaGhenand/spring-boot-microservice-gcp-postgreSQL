@@ -2,7 +2,7 @@
 
 A Spring-Boot application which will interact with GCP PostgreSQL doing CRUD operations. I will be using Spring data JPA with hibernate for the same.
 
-Install [java](https://oracle.com) and [Maven](https://maven.apache.org).example-identity-service:latestexample-identity-serviceexample-identity-service
+Install [java](https://oracle.com) and [Maven](https://maven.apache.org)
 
 ###### Run ErrorCount locally
 ```
